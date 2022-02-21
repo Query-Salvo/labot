@@ -1,0 +1,22 @@
+{
+  "name": "labot",
+  "version": "1.0.0",
+  "description": "Bot para ajudar na mestrar de La-Bas",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Query-Salvo/labot.git"
+  },
+  "author": "Thiago Faria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Query-Salvo/labot/issues"
+  },
+  "homepage": "https://github.com/Query-Salvo/labot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
